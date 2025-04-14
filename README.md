@@ -83,4 +83,4 @@ python sync_service.py
 El servicio:
 - Verificará los niveles de stock cada X minutos (definido en SYNC_INTERVAL)
 - Sincronizará los niveles de stock si son diferentes
-- Registrará todas las actividades y errores 
+- Registrará todas las actividades y errores
